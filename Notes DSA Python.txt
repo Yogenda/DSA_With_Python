@@ -1,0 +1,56 @@
+Introduction
+
+What is Data Structure?
+different ways of organizing data on your computer that can be used efficiently.
+
+from s/w point of view DS is important becaues
+- efficiency
+- performance
+s/w is dependent on how you are storing and organizing the data
+
+real life examples
+- people standing in queue for new phone launch
+- whiting for there order
+- organizing books in shelf
+
+What is algorithm?
+    set of instruction to perform a task.
+
+real life examples
+    - ATM withdrawal
+    - construct wall
+    - making a tea
+    - order a food from zomato
+
+algorithm
+    - Input
+    - Calcuation / Process
+    - Output / stop when you get your answer
+
+What makes a good algo?
+    - Correctness 
+    - Efficient
+
+
+Why DSA is important?
+
+- Input: m,t,w,t,f,s,s, 20,45,30,25,34,43,39
+- Process: Arrange, maerge, sort, maths operatinos.......
+- Output: m - 20, t - 45, w-30........
+our main responsiblitiy is to perform the action on data in Process section.
+
+
+Google map:
+- input: source and destination
+- Process: 
+- Ouput: provide the shortes and Efficient path
+
+
+Why companies are asking DSA questions
+- to check the fundamental of programming
+- Problem solving skills
+- limited time to judge
+
+
+
+

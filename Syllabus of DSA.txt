@@ -1,0 +1,55 @@
+Introduction
+Big O Notation
+Arrays
+Python List
+Practice Problems (Leetcode questions)
+IV questions
+Dictonary
+Dictonary Practice Problems
+Tuples
+Tuples Practice Problems
+OOPs concepts
+Linked List
+Singli Linked List
+Circular Singli Linked List
+Doubly Linked List
+Circular Doubly Linked List
+Practice Problems (Leetcode questions)
+IV questions
+Stack
+Queues
+IV questions
+Recursion
+Trees / binary Trees
+binary search Trees
+AVL Tree
+Binary Heap 
+Ties
+Hashing
+Sorting Algo
+Searching Algo
+Graph Algo
+Graph Traversels
+Topoligical Sort Algo
+SSSP
+Graph Algo - Dijsktra's Algo
+Graph Algo - Bellman ford Algo
+All pair short path
+Graph Algo - Floyd Warlshell Algo
+Minimum Spanning Tree (Disjoin sets)
+Graph Algo - Kruskals primms algo
+IV questions
+Greedy Algo
+Divide and conquore algo
+Dynamic programming
+Back tracking
+
+
+
+
+
+At 8:00 PM to 9:30 PM
+​​MWF (Mon, Wed, Fri) - Python DSA
+TTS (Tue, Thur, Sat) - Java DSA
+JS (Mon - Fri) - 2:00 PM - 3:00 PM
+SQL (Mon - Fri) - 3:30 pm to 4:30 PM
