@@ -52,5 +52,87 @@ Why companies are asking DSA questions
 - limited time to judge
 
 
+---------- class 2 --------
+Different type of Data Structure
+    - Primitive: not able to break down into sub data types or data structures
+    - Non primitive: can broken down into sub data type or data structure based on our requirement.
+
+Primitive:
+    - fix size
+    - simple
+    - simple operations
+
+Non Primitive:
+    - larger in size and are flexible (we can grow or shrink the size)
+    - complex (collection of many primitive data structures).
+    - more complex operations (sorting, searching, data manipulation.....)
+
+
+Primitive:
+    - Integer
+    - Float
+    - String
+    - Boolean
+
+Non Primitive:
+    - Linear: when the elements are in squential order (we have to define the order of an element).
+        - List
+        - Tuple
+        - Arrays
+        - Linked List
+        - Stack
+        - Queue
+    - Non Linear: when the elements are not arranged in a sequntial order
+        - Set
+        - Dictionary
+        - Tree
+        - Graph
+
+
+Type of algorithms:
+    - Sorting algorithm
+    - Searching algorithm
+    - Graph algorithm
+    - Dynamic Programming algorithm
+    - Divide and conqueror algorithm
+    - Recursive algorithm
+
+
+
+Quiz
+Question 1: Why do we need data structure and algorithms?
+    1. To develop software
+    2. To run our developed software
+    3. To develop memory and time efficient application (Correct)
+
+
+Question 2: What is primitive data structure?
+    1. Built in data structure in any given programming language (Correct)
+    2. user defined data structure.
+
+
+
+Question 3: Please select non primitive data structure.
+    1. Integer
+    2. String
+    3. Boolean
+    4. Array (Correct)
+
+
+Question 4: Which of the following is NOT a linear data structure?
+    1. Array 
+    2. Linked List 
+    3. Stack
+    4. Queue
+    5. Tree (Correct)
+
+
+What is Big O?
+    it is language or a metrix which is used to describe the efficiency of an algorithm
+
+
+
+
+
 
 
