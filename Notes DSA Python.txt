@@ -130,7 +130,26 @@ Question 4: Which of the following is NOT a linear data structure?
 What is Big O?
     it is language or a metrix which is used to describe the efficiency of an algorithm
 
+--------- class 3 -------------
+What is Big O?
+    it is language or a metrix which is used to describe the efficiency of an algorithm.
 
+Time Complexity:
+Note: runtime of the function increases as the size of input increases
+
+3 greak letters
+    - Omega: Best Case
+    - Theta: Avg Case
+    - Omicron: Worst Case
+
+Run time complexity:
+    - O(1)  -   Constant time     -   addition of 2 number
+    - O(N)  -   Linear time       -   loop the nubmer from 0 to N
+    - O(LogN)-  Lograthmic        -   finding an element in a sorted array
+    - O(N^2) -  Quadratic         -   Nested Loops
+    - O(2^n) -  Expontial         -   Double recursion (fibonachi)
+
+O(1) (Constant time)
 
 
 

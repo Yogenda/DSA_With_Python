@@ -53,3 +53,4 @@ At 8:00 PM to 9:30 PM
 TTS (Tue, Thur, Sat) - Java DSA
 JS (Mon - Fri) - 2:00 PM - 3:00 PM
 SQL (Mon - Fri) - 3:30 pm to 4:30 PM
+Sunday - (website/app building projects) - 12:00
