@@ -214,3 +214,38 @@ for i in range(n):
 
 
 
+----- Array -----
+Array are the collection of same type of data.
+
+NOTE: we can use numpy and array module to create a array.
+
+values of array: 4  6   9   7
+Index          : 0  1   2   3
+
+    - array can only store of specific data type
+    - value are in contiguos way.
+    - each value in array has unique index.
+
+
+Type of Array:(2 types)
+    - one dimension
+    - multi dimension
+        - two D
+        - three D
+        - .
+        - .
+        - n D
+
+
+
+create an array
+    - array module
+    - NumPy module (most famous)
+
+
+
+
+
+
+
+
