@@ -242,6 +242,8 @@ create an array
     - array module
     - NumPy module (most famous)
 
+Accessing the elements in array
+
 
 
 
