@@ -245,6 +245,26 @@ create an array
 Accessing the elements in array
 
 
+2D array: if you are working with metrix
+
+
+Saturday and Sunday Live class time
+
+- DSA Java : Saturday (8:00PM to 10:00PM)
+- DSA Python: Sunday (8:00PM to 10:00PM)
+- SQL Live: Sunday (2PM to 3PM)
+
+- Doubt classes(Videos related): 
+	Saturday and Sunday - 4PM to 5PM
+
+Videos (Advance java and JavaScript)
+	(including projects)
+(Monday to Friday)
+intro - 5-10 min video
+practical's - 15-30 min videos
+
+Tailwind video - once in a week
+
 
 
 
